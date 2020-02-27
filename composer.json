@@ -1,0 +1,18 @@
+{
+    "name": "ttmimbertorg/super-library",
+    "description": "My super duper library",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "private",
+    "authors": [
+        {
+            "name": "Mathieu Imbert",
+            "email": "mathieu.imbert@trackktik.com"
+        }
+    ]
+}
